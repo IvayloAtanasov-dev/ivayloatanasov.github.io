@@ -313,9 +313,9 @@ transform:translateX(0%);
     max-width:1000px;
     margin: 0 auto;
 }
-.about-me__img{
+/*.about-me__img{
     box-shadow:var(--bs);
-}
+}*/
 
 @media (min-width: 600px) {
     .about-me {
